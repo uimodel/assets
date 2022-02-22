@@ -13,7 +13,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://uimodel.github.io/assets/app/test.ipa</string>          <!-- ipa的http地址 -->
+                    <string>http://58.214.8.130:8087/sifang.ipa</string>          <!-- ipa的http地址 -->
                 </dict>
                 <dict>
                     <key>kind</key>
